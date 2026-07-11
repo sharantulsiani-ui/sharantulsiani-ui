@@ -1,13 +1,13 @@
-# My name (real name?)
+# Sharan Tulsiani
 Alright, first time on GitHub. I don't write code, always wanted to learn and be a "techie" as it's defined here in India
 but honesly, never got the grades to get into super competitive entrance exams here, and never thought I ever would 'build' something myself. BUT! here I am now.
-About me: Entrepreneur, worked in Patnerships, BD and marketing roles at Google, Microsoft. Build my own company, fundraised and just exited. Was diagnosed with ADHD very very late in life and then it all clicked.
+About me: Entrepreneur, worked in Partnerships, BD and marketing roles at Google, Microsoft. Built my own company, fundraised and just exited. Was diagnosed with ADHD very very late in life and then it all clicked.
 
-That I have been doing in 2026 is building AI systems anyway. Real ones, for me, in daily use. Followed a rule I took years to learn: Double down on strengths and delegate weaknesses. And the emergence of this type of AI allowed me a shot at doing it myself. 
+What I have been doing in 2026 is building AI systems anyway. Real ones, for me, in daily use. Followed a rule I took years to learn: Double down on strengths and delegate weaknesses. And the emergence of this type of AI allowed me a shot at doing it myself. 
 
 So,the AI writes every line of the implementation, and I write everything else... the specs, the milestone gates, the operating rules, the reviews when something breaks etc.
 
-These repos are that work, published as it develops. WIPs on purpose, so I can share it with people for feedback. Not aiming for polished code, as I wouldn't know what that is. Since I've been working on these,the AI's code gets better with every model release, and I'm banking on that. What I'm actually working out is a method for getting systems I can trust out of AI builders when I can't check the code yourself. 
+These repos are that work, published as it develops. WIPs on purpose, so I can share it with people for feedback. Not aiming for polished code, as I wouldn't know what that is. Since I've been working on these,the AI's code gets better with every model release, and I'm banking on that. What I'm actually working out is a method for getting systems I can trust out of AI builders when I can't check the code myself. 
 
 (Have used AI to help write the notes below, so it's understandable)
 
@@ -31,5 +31,9 @@ More will land here as it passes the privacy screen. Everything real inside thes
 5. Every mistake becomes a written rule, with the incident that caused it attached.
 
 And to be clear about what I do and don't do: the AI writes the code and most first drafts. I write the decisions, the constraints, the gates and the rejections. I keep those two things seperate on purpose so I can focus on Architecture and Outcome.
+
+## Contact
+
+sharan.tulsiani@gmail.com
 
 
