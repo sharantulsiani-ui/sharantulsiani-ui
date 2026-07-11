@@ -37,3 +37,7 @@ And to be clear about what I do and don't do: the AI writes the code and most fi
 sharan.tulsiani@gmail.com
 
 
+
+## License
+
+Read it, learn from it, share it with credit. Not open source though: no commercial use and no modified redistribution without permission. Details in [LICENSE.md](LICENSE.md).
