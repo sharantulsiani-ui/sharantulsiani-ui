@@ -10,8 +10,8 @@ These repos are that work, published as it develops. They're works in progress o
 
 | Repo | What it is | Status |
 |---|---|---|
-| [meeting-intelligence-system](https://github.com/sharantulsiani/meeting-intelligence-system) | A meeting pipeline that runs entirely on my Mac. Records, transcribes, works out who said what, and produces one short daily brief. Built by OpenAI's Codex working under a written control file. | In daily use since early July 2026 |
-| [ai-chief-of-staff](https://github.com/sharantulsiani/ai-chief-of-staff) | A permanent memory vault operated by Claude as a chief of staff. Daily briefings, a commitment ledger, and provenance rules so I always know where a claim came from. | In daily use since 5 July 2026 |
+| [meeting-intelligence-system](https://github.com/sharantulsiani-ui/meeting-intelligence-system) | A meeting pipeline that runs entirely on my Mac. Takes consented meeting recordings, transcribes them, works out who said what, and produces one short daily brief. Built by OpenAI's Codex working under a written control file. | In daily use since early July 2026 |
+| [ai-chief-of-staff](https://github.com/sharantulsiani-ui/ai-chief-of-staff) | A permanent memory vault operated by Claude as a chief of staff. Daily briefings, a commitment ledger, health tracking in the same system as work, and provenance rules so I always know where a claim came from. | In daily use since 5 July 2026 |
 
 More will land here as it passes the privacy screen. Everything real inside these systems is my actual work life, so what gets published is the system design, not my data.
 
