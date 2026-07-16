@@ -17,6 +17,7 @@ These repos are that work, published as it develops. WIPs on purpose, so I can s
 |---|---|---|
 | [meeting-intelligence-system](https://github.com/sharantulsiani-ui/meeting-intelligence-system) | A PRIVATE meeting pipeline that runs entirely on my Mac locally. Takes meeting recordings from my laptop and phone (recorded with consent), transcribes them, works out who said what (diarization), and produces one short daily brief. Built by OpenAI's Codex working under a written control file. | In daily use since early July 2026 |
 | [ai-chief-of-staff](https://github.com/sharantulsiani-ui/ai-chief-of-staff) | A permanent local memory vault operated by Claude as a Chief of Staff. Daily briefings, a commitment ledger, health tracking in the same system as work, and provenance rules so I always know where a claim came from. | In daily use since 5 July 2026 |
+| [finance-tracker](https://github.com/sharantulsiani-ui/finance-tracker) | A local-first personal finance system. Bank and card statements become one record I can question, with hard rules: statements are truth, emails are gossip, and the math must close before anything imports. Built by Codex; the AI that wrote it can't even see my statement passwords. | In daily use since 11 July 2026 |
 
 MeetingIntel + Chief of Staff are connected: CoS provides context for constantly improving Diarization, notes and todos. Email, calendar access etc is part of the design.
 
